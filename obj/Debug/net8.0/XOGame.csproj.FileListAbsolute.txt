@@ -1,0 +1,14 @@
+C:\Users\Admin\OneDrive\Máy tính\CODING\2024-Y1\C#\XOGame\bin\Debug\net8.0\XOGame.exe
+C:\Users\Admin\OneDrive\Máy tính\CODING\2024-Y1\C#\XOGame\bin\Debug\net8.0\XOGame.deps.json
+C:\Users\Admin\OneDrive\Máy tính\CODING\2024-Y1\C#\XOGame\bin\Debug\net8.0\XOGame.runtimeconfig.json
+C:\Users\Admin\OneDrive\Máy tính\CODING\2024-Y1\C#\XOGame\bin\Debug\net8.0\XOGame.dll
+C:\Users\Admin\OneDrive\Máy tính\CODING\2024-Y1\C#\XOGame\bin\Debug\net8.0\XOGame.pdb
+C:\Users\Admin\OneDrive\Máy tính\CODING\2024-Y1\C#\XOGame\obj\Debug\net8.0\XOGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Máy tính\CODING\2024-Y1\C#\XOGame\obj\Debug\net8.0\XOGame.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Máy tính\CODING\2024-Y1\C#\XOGame\obj\Debug\net8.0\XOGame.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Máy tính\CODING\2024-Y1\C#\XOGame\obj\Debug\net8.0\XOGame.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Máy tính\CODING\2024-Y1\C#\XOGame\obj\Debug\net8.0\XOGame.dll
+C:\Users\Admin\OneDrive\Máy tính\CODING\2024-Y1\C#\XOGame\obj\Debug\net8.0\refint\XOGame.dll
+C:\Users\Admin\OneDrive\Máy tính\CODING\2024-Y1\C#\XOGame\obj\Debug\net8.0\XOGame.pdb
+C:\Users\Admin\OneDrive\Máy tính\CODING\2024-Y1\C#\XOGame\obj\Debug\net8.0\XOGame.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Máy tính\CODING\2024-Y1\C#\XOGame\obj\Debug\net8.0\ref\XOGame.dll
